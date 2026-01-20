@@ -6,7 +6,7 @@
  Runs through a production-grade CI/CD + Terraform workflow
  Can detect failures and auto-remediate (self-healing)   
 
- 🧠 What Is This Project?
+  **What Is This Project?**
 
     This project builds an autonomous AI DevOps engineer that can:
     Understand natural language infrastructure requests
@@ -20,35 +20,35 @@
 
     Modern infrastructure management is painful because:
 
-    ❌ Too Much Manual Work
+     *Too Much Manual Work*
 
     Engineers read hundreds of pages of AWS docs and Terraform guides
     Knowledge becomes outdated very quickly
 
-    ❌ No Context Awareness
+    *No Context Awareness*
 
     Systems forget past actions
     No memory of previous scaling, failures, or fixes
 
-    ❌ Unsafe Infrastructure Changes
+    *Unsafe Infrastructure Changes*
 
     Terraform changes are risky
     One wrong apply can break production
 
-    ❌ No Self-Healing
+    *No Self-Healing*
 
     CloudWatch alarms trigger
     Humans wake up
     Problems stay broken until fixed manually
 
-    ❌ Most AI Demos Never Reach Production
+    *Most AI Demos Never Reach Production*
 
     Run locally
     No CI/CD
     No real AWS deployment
     No monitoring
 
- ✅ What This Project Solves
+ *What This Project Solves*
 
     This project delivers a production-ready AI infrastructure agent that:
 
