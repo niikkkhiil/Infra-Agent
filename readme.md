@@ -6,6 +6,11 @@
  Runs through a production-grade CI/CD + Terraform workflow
  Can detect failures and auto-remediate (self-healing)   
 
+ ![Python](https://img.shields.io/badge/Python-3.11-blue) 
+ ![AWS](https://img.shields.io/badge/AWS-ECS%20%7C%20Lambda-orange) 
+ ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple) 
+ ![License](https://img.shields.io/badge/license-MIT-green)
+
 **What Is This Project?**
 
     This project builds an autonomous AI DevOps engineer that can:
